@@ -1,0 +1,13 @@
+{
+  "name": "Webルーレット",
+  "short_name": "Webルーレット",
+  "description": "無料&広告なしのオンラインルーレットアプリです。任意の選択肢を設定して、自分だけのルーレットを作成しましょう。URLで簡単に共有可能です。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    { "src": "/icon-192x192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512x512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

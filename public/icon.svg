@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  width="384"
+  height="384"
+  viewBox="-192 -192 384 384"
+  style="transform: rotate(0deg); transition: transform 3s ease-out;"
+>
+  <g transform="rotate(0)">
+    <path
+      d="
+          M0 0
+          L192 0
+          A192 192 0 0 1
+          59.33126291998991
+          182.60285112866947
+          Z
+        "
+      fill="#f87171"
+    ></path>
+    <text
+      x="120"
+      y="8"
+      text-anchor="middle"
+      transform="rotate(36)"
+      fill="#000"
+    >
+      選択肢1
+    </text>
+  </g>
+  <g transform="rotate(72)">
+    <path
+      d="
+          M0 0
+          L192 0
+          A192 192 0 0 1
+          59.33126291998991
+          182.60285112866947
+          Z
+        "
+      fill="#fde047"
+    ></path>
+    <text
+      x="120"
+      y="8"
+      text-anchor="middle"
+      transform="rotate(36)"
+      fill="#000"
+    >
+      選択肢2
+    </text>
+  </g>
+  <g transform="rotate(144)">
+    <path
+      d="
+          M0 0
+          L192 0
+          A192 192 0 0 1
+          59.33126291998991
+          182.60285112866947
+          Z
+        "
+      fill="#4ade80"
+    ></path>
+    <text
+      x="120"
+      y="8"
+      text-anchor="middle"
+      transform="rotate(36)"
+      fill="#000"
+    >
+      選択肢3
+    </text>
+  </g>
+  <g transform="rotate(216)">
+    <path
+      d="
+          M0 0
+          L192 0
+          A192 192 0 0 1
+          59.33126291998991
+          182.60285112866947
+          Z
+        "
+      fill="#38bdf8"
+    ></path>
+    <text
+      x="120"
+      y="8"
+      text-anchor="middle"
+      transform="rotate(36)"
+      fill="#000"
+    >
+      選択肢4
+    </text>
+  </g>
+  <g transform="rotate(288)">
+    <path
+      d="
+          M0 0
+          L192 0
+          A192 192 0 0 1
+          59.33126291998991
+          182.60285112866947
+          Z
+        "
+      fill="#c084fc"
+    ></path>
+    <text
+      x="120"
+      y="8"
+      text-anchor="middle"
+      transform="rotate(36)"
+      fill="#000"
+    >
+      選択肢5
+    </text>
+  </g>
+</svg>
