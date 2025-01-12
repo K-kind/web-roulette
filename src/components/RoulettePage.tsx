@@ -49,7 +49,7 @@ export const RoulettePage = () => {
   }, [rotation, segments]);
 
   return (
-    <div className="flex flex-col md:flex-row gap-x-6 gap-y-4">
+    <div className="flex flex-col md:flex-row gap-x-5 gap-y-2">
       <div className="flex flex-col items-center">
         <div className="h-12 self-stretch">
           <div
